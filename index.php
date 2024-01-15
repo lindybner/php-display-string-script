@@ -13,17 +13,17 @@
     <p>
         Sample String:<br>
         'Tomorrow I \'ll learn PHP global variables.'<br>
-        'This is a bad command : del c:\\*.*'<br>
+        'This is a bad command: del c:\\*.*'<br>
         Expected Output:<br>
-        Tomorrow I 'll learn PHP global variables.<br>
-        This is a bad command : del c:\*.*
+        Tomorrow I'll learn PHP global variables.<br>
+        This is a bad command: del c:\*.*
     </p>
 
     <h2>Actual PHP Output</h2>
     <?php
 
     echo 'Tomorrow I\'ll learn PHP global variables.<br>';
-    echo 'This is a bad command : del c:\\*.*';
+    echo 'This is a bad command: del c:\\*.*';
 
     ?>
 
