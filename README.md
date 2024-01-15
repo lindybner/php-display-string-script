@@ -11,8 +11,8 @@ Sample String:
 ```php
 'Tomorrow I \'ll learn PHP global variables.'
 'This is a bad command : del c:\\*.*'
+```
 
 Expected Output:
 Tomorrow I 'll learn PHP global variables.
-This is a bad command : del c:\*.*
-```
+This is a bad command : del c:\*.\*
