@@ -13,8 +13,6 @@ Sample String:
 'This is a bad command : del c:\\*.*'
 ```
 
-```php
-Expected Output:
-Tomorrow I 'll learn PHP global variables.
+Expected Output:<br>
+Tomorrow I'll learn PHP global variables.<br>
 This is a bad command : del c:\*.\*
-```
